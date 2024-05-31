@@ -1,0 +1,213 @@
+
+Chethana Murthy posted a new assignment: Assignment 1
+Due Sep 25, 2023, 11:59 PM
+Posted Sep 24, 2023 (Edited Sep 25, 2023)
+Turned in
+Assignment 1:
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom
+
+1. Define: program, algorithm.
+2. Distinguish between system software and application software.
+3. State the advantages and disadvantages of machine language and assembly language.
+4. Compare and contrast assembly language and high-level language.
+5. What is a translator?
+6. What are the differences between a compiler and an interpreter?
+7. Briefly explain the compilation and execution of a program written in high-level language.
+8. What is a programming language?
+9. Briefly explain linker and loader? Is there any difference between them?
+10. Write an algorithm to check whether a year given by the user is a leap year or not.
+
+
+Chethana Murthy posted a new assignment: Assignment 2
+Due Sep 27, 2023, 11:59 PM
+Posted Sep 26, 2023 (Edited Sep 26, 2023)
+Turned in
+Assignment 2:
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom
+
+1. What is the difference between declaring a variable and defining a variable?
+2. Why data type is specified for a variable declaration?
+3. What are the uses of void in C?
+4. Is main() must for a C program?
+5. Should main() always return a value?
+6. What is the purpose of a header file? Is the use of a header file absolutely necessary?
+7. Name and describe the basic data types in C.
+8. Both %d and %i can be used to read and print integers. What is the difference between %d and %i?
+9. How can the % symbol be printed using a printf() statement?
+10. What is an escape sequence? What is its purpose?
+
+Chethana Murthy posted a new assignment: Assignment 3
+Due Sep 28, 2023, 11:59 PM
+Posted Sep 27, 2023 (Edited Oct 1, 2023)
+Turned in
+Assignment 3:
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom
+
+1. What is lvalue and rvalue?2. Why does the statement a + b = c + d is not legal in C?
+2. What are format specifiers?
+3. The % operator fails to work on float numbers. Can we get the remainder of a floating point division?
+4. Why the output of sizeof(‘a’) is 2 and not 1?
+5. Describe the different types of operators that are included in C.
+6. Describe the use of the conditional operator to form a conditional expression.
+7. Write a program to evaluate the polynomial: 3x^3 - 5x^2 + 6, for x = 2.55.
+8. Write a C program to compute the perimeter and area of a rectangle given the height and width.
+9. Write a C program to calculate the distance between given two points.  
+10. Write a C program to print a block F using the hash (#):
+######
+#
+#
+#####
+#
+#
+#
+
+Chethana Murthy posted a new assignment: Assignment 4
+Due Oct 5, 2023, 11:59 PM
+Posted Oct 4, 2023 (Edited Oct 4, 2023)
+Turned in
+Assignment 4:
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom
+
+1. Describe the different types of operators that are included in C.
+2. What are unary operators? State the purpose of each.
+3. Describe two different ways of using the increment and decrement operators.
+4. What is meant by precedence? Explain with an example.
+5. What is meant by associativity? Explain with an example. What is the associativity of arithmetic operators?
+6. What is the order of precedence and associativity of arithmetic operators?
+7. What are bit-wise operators? Explain.
+8. What is the difference between prefix and postfix of –– and ++ operators?
+9. Describe the use of the conditional operator to form a conditional expression.
+10. Write a program to compute area and perimeter of a rectangle.
+
+Chethana Murthy posted a new assignment: Assignment 5
+Due Oct 10, 2023, 11:59 PM
+Posted Oct 9, 2023
+Turned in
+Assignment 5:
+
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom
+1. What do you mean by control statements in C?
+2. What is the purpose of the if-else statement?
+3. Compare the use of the if-else statement with the use of the ‘?:’ operator.
+4. What is the purpose of the switch statement? What are labels, i.e., case prefixes? What type of expression must be used to represent a case label?
+5. What is the purpose of the comma operator? Within which control statement does the comma operator usually appear?
+6. Differentiate between a for loop and a while loop. Discuss the usage of each.
+7. Write a C program that accepts input from the keyboard and counts the positive integers until a negative number is entered (two programs - using while, for).
+8. Write a C program that asks the user to enter some numbers and then find their average (two programs - using while, for).
+9. Write a C program to find the sum of the series : 2 + 4 + 8 + 16 + … up to N (two programs - using while, for).
+10. Write a C program for calculating the factorial of a given number N
+
+Chethana Murthy posted a new assignment: Assignment 6
+Due Oct 12, 2023, 11:59 PM
+Posted Oct 11, 2023
+Turned in
+Assignment 6:
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom
+
+1. Define array
+2. Why is it necessary to give the size of an array in an array declaration?
+3. What does the array name signify?
+4. What is an array? What type and range must an array subscript have?
+5. Can array indexes be negative?
+6. Illustrate the initialization of one-dimensional array.
+7. Distinguish between the following: (a) do-while and while loop, (b) break and continue
+8. What is the use of goto statement?
+9. Write a program using conditional operators to determine whether a year entered through the keyboard is a leap year or not.
+10. Write a program to print all the even and odd numbers of a certain range as indicated by the user. (use any loop)
+
+Chethana Murthy posted a new assignment: Assignment 7
+Due Oct 21, 2023, 11:59 PM
+Posted Oct 16, 2023 (Edited Oct 17, 2023)
+Turned in
+Assignment 7:
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom
+1. Illustrate the initialization of one-dimensional arrays, two-dimensional arrays.
+2. Demonstrate the storage of two-dimensional arrays in memory with the help of a diagram.
+3. Write a C program to check a given matrix is an identity matrix or not
+4. Write a C program to find the determinant of a matrix.
+5. Write a C program to print the upper triangular matrix
+6. Write a C Program to transpose a matrix
+7. Write a C Program to read a matrix and print diagonals
+8. Write a C Program to find multiplication of two matrices
+9. Write a C Program to print lower diagonal of a matrix
+10. Write a C program to check two matrices are identical or not
+
+Chethana Murthy posted a new assignment: Assignment 8
+Due Oct 28, 2023, 11:59 PM
+Posted Oct 25, 2023
+Turned in
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom
+
+1. What is the difference between scanf() with %s and gets( )?
+2. Define string. How string is declared and initialized?
+3. What is the difference between character array and string?
+4. Write a C Program to find length of a string without using library function/s.
+5. Write a C program to read a text and count all the occurrences of a particular letter given by the user.
+6. Write a C program that will capitalize all the letters of a string.
+7. Write a C program that counts the total numbers of vowels and their frequency.
+8. Write a C program to remove the white spaces (blank spaces) from a string.
+9. Write a program to convert each character of a string into the next alphabet and print the string.
+10. Write a program that accepts a word from the user and prints it in the following way. For example, if the word is COMPUTER, the program will print it as
+C
+C O
+C O M
+C O M P
+C O M P U
+C O M P U T
+C O M P U T E
+C O M P U T E R
+
+Chethana Murthy posted a new assignment: Assignment 9
+Due Oct 29, 2023, 11:59 PM
+Posted Oct 26, 2023
+Turned in
+Assignment 9:
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom
+
+1. What is the difference between strcat() and strncat()?
+2. Write a C program to find length of a given string without using builtin function.
+3. Write a C program to find length of a given string using builtin function.
+4. Write a C program to compare given two strings without using builtin function.
+5. Write a C program to compare given two strings using builtin function.
+6. Write a C program to copy one string into another without using builtin function.
+7. Write a C program to copy one string into another using builtin function.
+8. Write a C program to check if a given sub-string is present in a string.
+9. Write a C program to reverse a given string and print.
+10. Write a C program that reads a line of text and counts all occurrences of a particular word.
+
+Chethana Murthy posted a new assignment: Assignment 10
+Due Nov 5, 2023, 11:59 PM
+Posted Oct 27, 2023
+Turned in
+Assignment 10:
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom
+
+1. Write a C program to count total number of vowels and consonants in a string.
+2. Write a C program to find highest frequency character in a string.
+3. Write a C program to count occurrences of a character in given string.
+4. Write a C program to replace first occurrence of a character with another in a string.
+5. Write a C program to remove all occurrences of a character from string.
+6. Write a C program to count no of lines, blank lines and comments in a given program.
+7. Write a C program to count occurrences of a word in a given string.
+8. Write a C program to trim both leading and trailing white space characters from given string.
+9. Write a C program to search all occurrences of a word in given string.
+10. Write a C program to reverse order of words in a given string.
+
+Chethana Murthy posted a new assignment: Assignment 11
+Due Nov 11, 2023, 11:59 PM
+Posted Nov 7, 2023
+Turned in
+Answer the following questions and submit your work. Do not forget to turn in your assignment in Google Classroom.
+
+1. Why is a function prototype required?
+2. Why is scope important?
+3. If global variables can be used anywhere in the program, why not make all variables global?
+4. Write a C program with a function to find the sum of digits of a given number.
+5. Write a C program with a function to search a number within an array.
+6. Write a C program with a function that will read a string and convert all characters to capital letters.
+7. Write a C program with a function to add a string to the end of another string without using any library function.
+8. Write a C program with a function to sort an array of integers in ascending order.
+9. Write a C program with a functions to perform addition, subtraction, and multiplication on two matrices depending upon the user’s choice.
+10. Write functions to convert feet to inches, convert inches to centimeters, and convert centimeters to meters. Write a program that prompts a user for a measurement in feet and converts and outputs this value in meters. Facts to use: 1 ft = 12 inches, 1 inch = 2.54 cm, 100 cm = 1 meter.
+
+

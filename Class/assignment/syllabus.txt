@@ -1,0 +1,47 @@
+Course Code: CS105
+Course Name: Problem Solving through Programming
+Syllabus:
+Unit –I Introduction
+Basic structure of C program, executing a C program.
+Constant, variable and data types: Character Set, C Tokens, Keywords and Identifiers,
+Constants, Variables, Data Types, Declaration of Variables, Declaration of Storage Class,
+Assigning Values to Variables, Defining Symbolic Constants, Declaring a Variable as
+Constant, Declaring a Variable as Volatile.
+Operators and expressions: Arithmetic Operators, Relational Operators, Logical
+Operators, Assignment Operators, Increment and Decrement Operators, Conditional
+Operator, Bitwise Operators, Special Operators, Arithmetic Expressions, Evaluation of
+Expressions, Precedence of Arithmetic Operators, Operator Precedence and Associativity.
+Unit-II Input and Output
+Managing Input and output operations: Reading a Character, Writing a Character,
+Formatted Input, Formatted Output.
+Conditional Branching and Loops: Decision Making with If Statement, Simple If Statement,
+The If.....Else Statement, Nesting of If....Else Statements, The Else If Ladder, The Switch
+Statement, The ? : Operator, The Goto Statement, The While Statement, The Do
+Statement, The For Statement.
+Unit –III Arrays
+Arrays: One-Dimensional Arrays, Declaration of One-Dimensional Arrays, Initialization of
+One-Dimensional Arrays, Two-Dimensional Arrays, Initializing Two-Dimensional Arrays.
+Character arrays and Strings: Declaring and Initializing String Variables, Reading Strings
+from Terminal, Writing Strings to Screen, Arithmetic Operations on Characters, Putting
+Strings Together, Comparison of Two Strings, String-Handling Functions.
+Unit –IV User Defined Functions and Recursion
+Elements of User-Defined Functions, Definition of Functions, Return Values and Their
+Types, Function Calls, Function Declaration, Category of Functions, Nesting of Functions.
+Recursion: Recursive definition and processes, recursion in C, example of recursion.
+Unit –V Pointers and Structures
+Understanding Pointers, Accessing the Address of a Variable, Declaring Pointer Variables,
+Initialization of Pointer Variables, Accessing a Variable Through its Pointer, Chain of
+Pointers, Pointer Expressions.
+Structures and Unions: Defining a Structure, Declaring Structure Variables, Accessing
+Structure Members, Structure Initialization, Unions.
+File management: Defining and Opening a File, Closing a File, Input/Output Operations on
+Files.
+Text books:
+1. E. Balagurusamy, Programming in C, McGraw Hill Education.
+2. Herb Schildt, C: The Complete Reference, McGraw Hill
+3. Brian W. Kernighan, Dennis M. Ritchie, C Programming Language, Prentice Hall.
+References:
+1. Stephen Kochan, Programming in C, Sams Publishing.
+
+2. Yashvant Kanetkar, ANSI C Programming: Learn ANSI C step by step, BPB
+Publications
